@@ -44,14 +44,8 @@ https://github.com/user-attachments/assets/2a2983b5-bcbe-4d64-a79a-3f687c3dcf49
 
 
 
-## 📦 Dependencies
-Installable via:
+## 📦 Key Libraries
 
-```bash
-pip install -r requirements.txt
-```
-
-Key Libraries:
 - `ultralytics==8.x` (for YOLOv11)
 - `boxmot` (StrongSORT tracking)
 - `opencv-python`

@@ -23,12 +23,6 @@ pip install -r requirements.txt
 - 🔍 **YOLOv11 Detection Model**: `yolov11_players.pt`
   - ➤ Place it in the `models/` folder
 
-- 🧠 **ReID Model for StrongSORT**: `osnet_x1_0_msmt17_combineall_256x128_amsgrad_ep150.pth`
-  - ➤ Place it inside `trackers/weights/`
-
-- 📹 **Input Video**: `match_clip.mp4`
-  - ➤ Put it inside `input_videos/`
-
 ---
 
 ## ▶️ Running the Code

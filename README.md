@@ -11,10 +11,6 @@ This repository presents a computer vision pipeline for **soccer player tracking
 ```bash
 git clone https://github.com/YA-shiKa/player-reid-tracking.git
 cd player-reid-tracking
-python -m venv venv
-venv\Scripts\activate     # For Windows
-# OR
-source venv/bin/activate  # For Mac/Linux
 pip install -r requirements.txt
 ```
 

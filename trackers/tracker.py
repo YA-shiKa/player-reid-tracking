@@ -16,7 +16,7 @@ from utils import get_center_of_bbox, get_bbox_width, get_foot_position
 
 class Tracker:
     def __init__(self, model_path):
-        self.embedding_memory = {}  # fixed_id -> dict with embedding, bbox, last_seen
+        self.embedding_memory = {}  
         self.max_ids_allowed = 22
         self.next_fixed_id = 1
 

@@ -10,7 +10,7 @@ def read_video(video_path):
         frames.append(frame)
     return frames
 
-def save_video(output_video_frames, output_video_path):  # ✅ Fixed typo here
+def save_video(output_video_frames, output_video_path):  
     if not output_video_frames:
         print("⚠️ No output frames to save.")
         return
